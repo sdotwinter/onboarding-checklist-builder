@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Set up local development environment",
+    "owner": "",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Read API architecture docs",
+    "owner": "",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Ship first small backend PR",
+    "owner": "",
+    "completed": false
+  }
+]
